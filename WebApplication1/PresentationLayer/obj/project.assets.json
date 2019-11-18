@@ -3633,11 +3633,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\PresentationLayer\\PresentationLayer.csproj",
+      "projectUniqueName": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\PresentationLayer\\PresentationLayer.csproj",
       "projectName": "PresentationLayer",
-      "projectPath": "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\PresentationLayer\\PresentationLayer.csproj",
+      "projectPath": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\PresentationLayer\\PresentationLayer.csproj",
       "packagesPath": "C:\\Users\\dark\\.nuget\\packages\\",
-      "outputPath": "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\PresentationLayer\\obj\\",
+      "outputPath": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\PresentationLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3656,11 +3656,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\BuissnesLayer\\BuissnesLayer.csproj": {
-              "projectPath": "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\BuissnesLayer\\BuissnesLayer.csproj"
+            "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\BuissnesLayer\\BuissnesLayer.csproj": {
+              "projectPath": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\BuissnesLayer\\BuissnesLayer.csproj"
             },
-            "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj": {
-              "projectPath": "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj"
+            "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj": {
+              "projectPath": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj"
             }
           }
         }

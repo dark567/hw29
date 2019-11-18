@@ -14,9 +14,14 @@ namespace WebApplication1
 {
     public class Program
     {
+        /// <summary>
+        /// point entry
+        /// </summary>
+        /// <param name="args"></param>
         public static void Main(string[] args)
         {
             //BuildWebHost(args).Run();
+
             var host = BuildWebHost(args);
 
             using (var scope = host.Services.CreateScope())

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj": {}
+    "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj": {}
   },
   "projects": {
-    "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj": {
+    "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj",
+        "projectPath": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\dark\\.nuget\\packages\\",
-        "outputPath": "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\obj\\",
+        "outputPath": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
