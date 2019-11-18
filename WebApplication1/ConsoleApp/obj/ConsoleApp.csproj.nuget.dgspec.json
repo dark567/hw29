@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\ConsoleApp\\ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\BuissnesLayer\\BuissnesLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\BuissnesLayer\\BuissnesLayer.csproj",
+        "projectName": "BuissnesLayer",
+        "projectPath": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\BuissnesLayer\\BuissnesLayer.csproj",
+        "packagesPath": "C:\\Users\\dark\\.nuget\\packages\\",
+        "outputPath": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\BuissnesLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\ConsoleApp\\ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\ConsoleApp\\ConsoleApp.csproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\ConsoleApp\\ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\dark\\.nuget\\packages\\",
+        "outputPath": "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\BuissnesLayer\\BuissnesLayer.csproj": {
+                "projectPath": "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\BuissnesLayer\\BuissnesLayer.csproj"
+              },
+              "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj"
+              },
+              "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\PresentationLayer\\PresentationLayer.csproj": {
+                "projectPath": "D:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\PresentationLayer\\PresentationLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj",
+        "projectName": "DataLayer",
+        "projectPath": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj",
+        "packagesPath": "C:\\Users\\dark\\.nuget\\packages\\",
+        "outputPath": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\PresentationLayer\\PresentationLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\PresentationLayer\\PresentationLayer.csproj",
+        "projectName": "PresentationLayer",
+        "projectPath": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\PresentationLayer\\PresentationLayer.csproj",
+        "packagesPath": "C:\\Users\\dark\\.nuget\\packages\\",
+        "outputPath": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\PresentationLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\BuissnesLayer\\BuissnesLayer.csproj": {
+                "projectPath": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\BuissnesLayer\\BuissnesLayer.csproj"
+              },
+              "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

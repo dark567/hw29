@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using PresentationLayer.Models;
 
 namespace ConsoleApp
 {
@@ -10,8 +7,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-
-
+            Console.WriteLine("Hello World!");
         }
     }
 }
