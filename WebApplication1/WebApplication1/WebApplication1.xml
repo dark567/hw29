@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication1</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication1.Controllers.HomeController.#ctor(BuissnesLayer.DataManager)">
+            <summary>
+            
+            </summary>
+            <param name="dataManager"></param>
+        </member>
+        <member name="M:WebApplication1.Controllers.HomeController.About">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.HomeController.Contact">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.HomeController.Error">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Program.Main(System.String[])">
+            <summary>
+            point entry
+            </summary>
+            <param name="args"></param>
+        </member>
+    </members>
+</doc>

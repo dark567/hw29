@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.0"
+          "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.0": {
+          "netcoreapp2.1": {
             "projectReferences": {
               "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj": {
                 "projectPath": "d:\\A-level2017\\29\\hw\\Solution\\WebApplication1\\DataLayer\\DataLayer.csproj"
@@ -43,12 +43,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.0": {
+        "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.0, )",
+              "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
@@ -77,14 +77,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.0"
+          "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.0": {
+          "netcoreapp2.1": {
             "projectReferences": {}
           }
         },
@@ -95,9 +95,13 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.0": {
+        "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
               "version": "[2.1.1, )"
             },
@@ -106,13 +110,15 @@
               "version": "[2.1.1, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.1, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.0, )",
+              "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },

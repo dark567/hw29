@@ -1,0 +1,11 @@
+d:\A-level2017\29\hw\Solution\WebApplication1\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.deps.json
+d:\A-level2017\29\hw\Solution\WebApplication1\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+d:\A-level2017\29\hw\Solution\WebApplication1\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+d:\A-level2017\29\hw\Solution\WebApplication1\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CoreCompileInputs.cache
+d:\A-level2017\29\hw\Solution\WebApplication1\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfoInputs.cache
+d:\A-level2017\29\hw\Solution\WebApplication1\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfo.cs
+d:\A-level2017\29\hw\Solution\WebApplication1\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
+d:\A-level2017\29\hw\Solution\WebApplication1\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb
+d:\A-level2017\29\hw\Solution\WebApplication1\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csprojAssemblyReference.cache
+d:\A-level2017\29\hw\Solution\WebApplication1\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.runtimeconfig.json
+d:\A-level2017\29\hw\Solution\WebApplication1\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.runtimeconfig.dev.json

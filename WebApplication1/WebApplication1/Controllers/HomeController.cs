@@ -36,7 +36,7 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
-            HelloModel _model = new HelloModel() { HelloMessage = "Hi, Igor!" };
+            HelloModel _model = new HelloModel() { HelloMessage = "Hi, Serg!" };
             //List<Directory> _dirs = _context.Directory.Include(x=>x.Materials).ToList();
             //List<Directory> _dirs = _dirRep.GetAllDirectorys().ToList();
             //List<Directory> _dirs = _datamanager.Directorys.GetAllDirectorys(true).ToList();

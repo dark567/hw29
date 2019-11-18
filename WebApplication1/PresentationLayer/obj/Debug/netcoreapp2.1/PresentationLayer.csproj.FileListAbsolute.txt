@@ -1,0 +1,14 @@
+d:\A-level2017\29\hw\Solution\WebApplication1\PresentationLayer\bin\Debug\netcoreapp2.1\PresentationLayer.deps.json
+d:\A-level2017\29\hw\Solution\WebApplication1\PresentationLayer\bin\Debug\netcoreapp2.1\PresentationLayer.dll
+d:\A-level2017\29\hw\Solution\WebApplication1\PresentationLayer\bin\Debug\netcoreapp2.1\PresentationLayer.pdb
+d:\A-level2017\29\hw\Solution\WebApplication1\PresentationLayer\bin\Debug\netcoreapp2.1\BuissnesLayer.dll
+d:\A-level2017\29\hw\Solution\WebApplication1\PresentationLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+d:\A-level2017\29\hw\Solution\WebApplication1\PresentationLayer\bin\Debug\netcoreapp2.1\BuissnesLayer.pdb
+d:\A-level2017\29\hw\Solution\WebApplication1\PresentationLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+d:\A-level2017\29\hw\Solution\WebApplication1\PresentationLayer\obj\Debug\netcoreapp2.1\PresentationLayer.csprojAssemblyReference.cache
+d:\A-level2017\29\hw\Solution\WebApplication1\PresentationLayer\obj\Debug\netcoreapp2.1\PresentationLayer.csproj.CoreCompileInputs.cache
+d:\A-level2017\29\hw\Solution\WebApplication1\PresentationLayer\obj\Debug\netcoreapp2.1\PresentationLayer.AssemblyInfoInputs.cache
+d:\A-level2017\29\hw\Solution\WebApplication1\PresentationLayer\obj\Debug\netcoreapp2.1\PresentationLayer.AssemblyInfo.cs
+d:\A-level2017\29\hw\Solution\WebApplication1\PresentationLayer\obj\Debug\netcoreapp2.1\PresentationLayer.csproj.CopyComplete
+d:\A-level2017\29\hw\Solution\WebApplication1\PresentationLayer\obj\Debug\netcoreapp2.1\PresentationLayer.dll
+d:\A-level2017\29\hw\Solution\WebApplication1\PresentationLayer\obj\Debug\netcoreapp2.1\PresentationLayer.pdb
